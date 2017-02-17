@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/ReactNative/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/cc/AndroidStudioProjects/ReactNative/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_a5b17b1d5b26fb7792e821ed593242a41d331609.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/ReactNativeIntegeration/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/cc/AndroidStudioProjects/ReactNativeIntegeration/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_7dab6fbcdbb0b0f817024cc1b9aa708d0a235497.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/ReactNativeIntegeration/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/cc/AndroidStudioProjects/ReactNativeIntegeration/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_d72b0ee865b368ec66dcb23ff4d04790c69c7a70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/ReactNative/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/cc/AndroidStudioProjects/ReactNative/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_3fcfd76b37029710300c4aa3248a46ab73490d58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/ReactNativeIntegeration/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/cc/AndroidStudioProjects/ReactNativeIntegeration/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_34c571fe3b48c5400645c3ae06d756194d6baeab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/ReactNative/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/cc/AndroidStudioProjects/ReactNative/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_6f20fa44ff7783bd074251ebb0debd9d827df9bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/ReactNative/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/cc/AndroidStudioProjects/ReactNative/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_492cc5e9a99aa8d569aff7ac1472ff46a3ca3d8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/ReactNativeIntegeration/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/cc/AndroidStudioProjects/ReactNativeIntegeration/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_adb60d9a84eaad4b32a8b1826141dad8fa788add.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/ReactNative/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/cc/AndroidStudioProjects/ReactNative/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_f711b4aada5f127c26f1365eb95d3ffef2f7c435.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/cc/AndroidStudioProjects/ReactNative/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_c6bcdea2762b32b56bb77a9a791545368440a07b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cc/AndroidStudioProjects/ReactNativeIntegeration/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/cc/AndroidStudioProjects/ReactNativeIntegeration/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_17343c1e4452d4cff2d6e832e33108582cc27655.jar" />
+    </item>
+
+</items>
